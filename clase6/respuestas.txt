@@ -1,0 +1,6 @@
+1. Git fue creado en 2005 por Linus Torvalds. La creacion surgio cuando los desarrolladores de Linux se 
+desvincularon de BitKeeper. Por esta razon no puedieron usar mas su herramienta y tuvieron que crear una 
+propia, git.
+2. Github pertenece a Microsoft. Lo compraron para seguir con su filosofia de libertad, innovacion y 
+apoyo a desarrolladores.
+3. Si se puede usar github desde la terminal grafica.
