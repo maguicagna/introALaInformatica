@@ -1,0 +1,16 @@
+1. Por que un lenguaje de programacion solo puede usarse en algunos sistemas operativos y en 
+otros no?
+
+Por que al ser compilados solo pueden ser utilizados en el sistema operativo donde fueron 
+compilados.
+
+
+2. Que tipo de maquina virtual es VirtualBox?
+
+Es una maquina virtual de sistemas.
+
+
+3. Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? 
+Por que?
+
+No por que cada una de ellas es independiente y se encuentra aislada de la otra.
